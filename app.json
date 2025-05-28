@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "GestionDeClinicas",
-    "slug": "gestorclinico",
+    "slug": "gestiondeclinicas",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -32,11 +32,11 @@
       "android",
       "web"
     ],
-
     "extra": {
       "eas": {
-        "projectId": "24be2750-7243-43fb-b8a0-bdf8141a4528"
+        "projectId": "dd142db7-db87-4344-b70e-36a40c5486be"
       }
-    }
+    },
+    "owner": "emmajhonson"
   }
 }
